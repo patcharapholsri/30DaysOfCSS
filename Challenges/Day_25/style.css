@@ -7,11 +7,11 @@ body {
 }
 a {
 	text-decoration: none;
-	color: #6F345F;
+	color: #6f345d;
 	font-family: sans-serif;
 	font-size: 30px;
-	border: 3px solid #6F345F;
-  background-color: #F49B99;
+	border: 3px solid #ff0000;
+  background-color: #99e9f4;
   border-radius: 15px;
 	padding: 30px 60px;
 	position: relative;
